@@ -2,61 +2,6 @@
 <!------------------------------------------------------------------>
 <!------------------------- _blank --- _self ----------------------->
 <!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note&pcampaignid=web_share
-" target="_blank"><b>
-NOTE
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
-<!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.google.android.keep&pcampaignid=web_share
-" target="_blank"><b>
-KEEP
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
-<!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&pcampaignid=web_share
-" target="_blank"><b>
-CALENDÁRIO HOTMAIL 
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
-<!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.google.android.calendar&pcampaignid=web_share
-" target="_blank"><b>
-CALENDÁRIO GOOGLE 
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
-<!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&pcampaignid=web_share
-" target="_blank"><b>
-TO-DO GOOGLE
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
-<!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.microsoft.todos&pcampaignid=web_share
-" target="_blank"><b>
-TO-DO HOTMAIL
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
-<!------------------------------------------------------------------>
-<p><a href="
-https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow
-" target="_blank"><b>
-NOTAS - PASTA AMARELA NO PC NO ANDROID É ESSE.
-</b>(<FONT COLOR="#095202">
-👍
-</FONT>).</a></p>
 <!------------------------------------------------------------------>
 <p><a href="
 LINK🔴
